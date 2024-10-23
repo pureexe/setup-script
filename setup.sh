@@ -1,4 +1,6 @@
 
+# install brew
+
 # install pdsh
 
 # install zsh 
@@ -16,3 +18,13 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 
 # setup custom command ducks and ul
+
+
+# plan to install 
+# atuin # for key up
+
+
+# dust for file what taking space
+
+# setup powerline theme for tmux 
+#https://github.com/jimeh/tmux-themepack/tree/master
